@@ -2,7 +2,7 @@
 This is the code for a simple recyclerview in android. It is part of a tutorial that is uploaded on YouTube at CodeStudio (Computer Science YouTube channel in URDU)
 
 ## YouTube Video Tutorial Link
-https://www.youtube.com/watch?v=wZqUFscI4I0&t=636s
+https://www.youtube.com/watch?v=wZqUFscI4I0
 
 ## Steps to use this project
 
